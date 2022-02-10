@@ -21,7 +21,7 @@ const Navbar = () => {
             <Box fontSize='18px' color='white' fontWeight='bold' marginLeft='70' paddingTop='2'>
                 <Link href='/search?purpose=for-sale' paddingLeft='2'>Buy Property</Link>
             </Box>
-             <Box fontSize='18p' color='white' fontWeight='bold' marginLeft='70' paddingTop='2'>
+             <Box fontSize='18px' color='white' fontWeight='bold' marginLeft='70' paddingTop='2'>
                 <Link href='/search?purpose=for-rent' paddingLeft='2'>Rent Property</Link>
                 </Box>
                 </Flex>
