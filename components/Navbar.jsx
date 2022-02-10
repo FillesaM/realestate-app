@@ -12,7 +12,7 @@ const Navbar = () => {
                 <Link href='/' paddingLeft='2'>Realtor</Link>
             </Box>
             <Flex display={{ base: "none", md: "flex" }}>
-            <Box fontSize='18px' color='white' fontWeight='bold' marginLeft='850' paddingTop='2' >
+            <Box fontSize='18px' color='white' fontWeight='bold' marginLeft='700' paddingTop='2' >
                 <Link href='/' paddingLeft='2'>Home</Link>
             </Box>
              <Box fontSize='18px' color='white' fontWeight='bold' marginLeft='70' paddingTop='2'>
